@@ -1,0 +1,1 @@
+ customtkinter ollama pyaudio pyttsx3 keyboard Pillow Pygments vosk
