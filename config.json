@@ -1,0 +1,12 @@
+{
+    "theme_mode": "Dark",
+    "color_theme": "green",
+    "ollama_model": "phi:latest",
+    "hotkey_str": "`",
+    "tts_voice_id": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Speech\\Voices\\Tokens\\TTS_MS_EN-GB_HAZEL_11.0",
+    "tts_rate": 200,
+    "tts_volume": 0.8,
+    "font_size": 16,
+    "whisper_model_name": "base",
+    "selected_mic_index": 0
+}
